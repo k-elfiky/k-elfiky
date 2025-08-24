@@ -47,7 +47,7 @@ I love writing clean code, solving challenging problems, and learning new techno
     <img src="https://leetcode.com/static/images/LeetCode_logo.png" width="50" height="50" />
   </a>
   <a href="https://www.codewars.com/users/wine-code" target="_blank">
-    <img src="https://raw.githubusercontent.com/k-elfiky/k-elfiky/main/download.png" width="50" height="50" />
+    <img src="download.png" width="50" height="50" />
   </a>
 </p>  
 
